@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" version="3.0">
+  <display-name>LMS Data Loader</display-name>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <resource-ref>
+    <description>DB Connection</description>
+    <res-ref-name>jdbc/MoocDb</res-ref-name>
+    <res-type>javax.sql.DataSource</res-type>
+    <res-auth>Container</res-auth>
+  </resource-ref>
+  <resource-ref>
+  
+    <description>DB Connection</description>
+    <res-ref-name>jdbc/IITBxDb</res-ref-name>
+    <res-type>javax.sql.DataSource</res-type>
+    <res-auth>Container</res-auth>
+  </resource-ref>
+  <!-- <servlet>
+    <servlet-name>EdxCourse</servlet-name>
+    <servlet-class>course.EdxCourseProcessor</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>EdxCourse</servlet-name>
+    <url-pattern>/EdxCourse</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>EdxMySqlDBProcessor</servlet-name>
+    <servlet-class>mysql.EdxMySqlDBProcessor</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>EdxMySqlDBProcessor</servlet-name>
+    <url-pattern>/EdxMySqlDBProcessor</url-pattern>
+  </servlet-mapping> -->
+</web-app>

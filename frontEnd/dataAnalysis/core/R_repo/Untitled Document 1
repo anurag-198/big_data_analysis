@@ -1,0 +1,9 @@
+SELECT t1.interval_end,IFNULL(t1.count,0) AS ACTIVE,IFNULL(t2.count,0) AS Video 
+FROM (SELECT interval_end,count,label FROM course_activity where label='ACTIVE' AND (course_id='", courseName, "')) AS t1
+LEFT OUTER JOIN (SELECT interval_end,count,label FROM course_activity where label='PLAYED-VIDEO' AND (course_id='", courseName, "')) AS t2
+ON t1.interval_end=t2.interval_end
+UNION
+SELECT t1.interval_end,IFNULL(t1.count,0) AS ACTIVE,(t2.count,0) AS Video
+FROM (SELECT interval_end FROM course_activity where label='ACTIVE' AND (course_id='", courseName, "')) AS t1
+RIGHT OUTER JOIN (SELECT interval_end,count,label FROM course_activity where label='PLAYED-VIDEO' AND (course_id='", courseName, "')) AS t2
+ON t1.interval_end=t2.interval_end

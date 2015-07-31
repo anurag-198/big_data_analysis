@@ -1,0 +1,993 @@
+total records scanned : 5089
+total records written : 5088
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424542621
+total records scanned : 4751
+total records written : 4751
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424186221
+total records scanned : 14488
+total records written : 14486
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423149421
+total records scanned : 3990
+total records written : 3990
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424362621
+total records scanned : 7896
+total records written : 7895
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423210621
+total records scanned : 5925
+total records written : 5925
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423991821
+total records scanned : 2791
+total records written : 2791
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424276222
+total records scanned : 4347
+total records written : 4346
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423671421
+total records scanned : 1756
+total records written : 1752
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424571421
+total records scanned : 8246
+total records written : 8245
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423221421
+total records scanned : 13988
+total records written : 13988
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424153821
+total records scanned : 10885
+total records written : 10885
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424704621
+total records scanned : 2807
+total records written : 2807
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423851421
+total records scanned : 2955
+total records written : 2954
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423383421
+total records scanned : 1540
+total records written : 1540
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424657821
+total records scanned : 2461
+total records written : 2461
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423394221
+total records scanned : 1433
+total records written : 1433
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424733421
+total records scanned : 2520
+total records written : 2520
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423624621
+total records scanned : 3334
+total records written : 3334
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423412221
+total records scanned : 3899
+total records written : 3899
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423372621
+total records scanned : 2825
+total records written : 2824
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424193421
+total records scanned : 1966
+total records written : 1966
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424665021
+total records scanned : 2503
+total records written : 2503
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424585821
+total records scanned : 2576
+total records written : 2576
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423167421
+total records scanned : 3876
+total records written : 3876
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423505821
+total records scanned : 1434
+total records written : 1434
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424211421
+total records scanned : 2509
+total records written : 2509
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424510221
+total records scanned : 4090
+total records written : 4090
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423556221
+total records scanned : 7465
+total records written : 7465
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423653421
+total records scanned : 5646
+total records written : 5645
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423667821
+total records scanned : 6503
+total records written : 6498
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423214221
+total records scanned : 1769
+total records written : 1769
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423531021
+total records scanned : 5094
+total records written : 5091
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423117021
+total records scanned : 1615
+total records written : 1615
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424287021
+total records scanned : 4518
+total records written : 4518
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424499421
+total records scanned : 3090
+total records written : 3088
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423718221
+total records scanned : 5849
+total records written : 5849
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423999021
+total records scanned : 4938
+total records written : 4937
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423675021
+total records scanned : 2191
+total records written : 2191
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424143021
+total records scanned : 4813
+total records written : 4812
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423567021
+total records scanned : 2559
+total records written : 2557
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422958621
+total records scanned : 3453
+total records written : 3452
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423066621
+total records scanned : 4597
+total records written : 4596
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423498621
+total records scanned : 4695
+total records written : 4695
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423315021
+total records scanned : 2616
+total records written : 2616
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424117821
+total records scanned : 2625
+total records written : 2624
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424279821
+total records scanned : 7410
+total records written : 7410
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423477021
+total records scanned : 6208
+total records written : 6207
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424157421
+total records scanned : 3590
+total records written : 3590
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423844221
+total records scanned : 2447
+total records written : 2447
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424747821
+total records scanned : 6864
+total records written : 6863
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423160221
+total records scanned : 2958
+total records written : 2958
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424506621
+total records scanned : 8949
+total records written : 8949
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424715421
+total records scanned : 10867
+total records written : 10867
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424690221
+total records scanned : 4334
+total records written : 4334
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424348221
+total records scanned : 1378
+total records written : 1378
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424139421
+total records scanned : 5658
+total records written : 5657
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423228621
+total records scanned : 3956
+total records written : 3956
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423297021
+total records scanned : 3784
+total records written : 3784
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424621821
+total records scanned : 3021
+total records written : 3019
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423379821
+total records scanned : 6704
+total records written : 6704
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424017021
+total records scanned : 2646
+total records written : 2645
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424161021
+total records scanned : 3937
+total records written : 3935
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423981021
+total records scanned : 3325
+total records written : 3325
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424589421
+total records scanned : 9582
+total records written : 9582
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423649821
+total records scanned : 7118
+total records written : 7116
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423239421
+total records scanned : 2383
+total records written : 2381
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422854221
+total records scanned : 3819
+total records written : 3819
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423909021
+total records scanned : 2184
+total records written : 2183
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424031421
+total records scanned : 8929
+total records written : 8925
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423138621
+total records scanned : 3150
+total records written : 3149
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423027021
+total records scanned : 2770
+total records written : 2770
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424168221
+total records scanned : 4144
+total records written : 4143
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424258221
+total records scanned : 2255
+total records written : 2255
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422865021
+total records scanned : 8550
+total records written : 8550
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424074622
+total records scanned : 2649
+total records written : 2649
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422955021
+total records scanned : 6589
+total records written : 6589
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424431021
+total records scanned : 2560
+total records written : 2560
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424236621
+total records scanned : 4495
+total records written : 4494
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424427421
+total records scanned : 2159
+total records written : 2159
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423081021
+total records scanned : 2599
+total records written : 2598
+file name is //home//hduser//LMS-2//tracking.log-20150129-1422551821
+total records scanned : 9323
+total records written : 9320
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423124221
+total records scanned : 5193
+total records written : 5192
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423934221
+total records scanned : 1787
+total records written : 1787
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423952221
+total records scanned : 8726
+total records written : 8726
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423131421
+total records scanned : 3988
+total records written : 3988
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423559821
+total records scanned : 2206
+total records written : 2206
+file name is //home//hduser//LMS-2//tracking.log-20150126-1422296221
+total records scanned : 2454
+total records written : 2452
+file name is //home//hduser//LMS-2//tracking.log-20150201-1422778621
+total records scanned : 3368
+total records written : 3368
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424269021
+total records scanned : 5061
+total records written : 5061
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424618221
+total records scanned : 3945
+total records written : 3945
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424240221
+total records scanned : 4187
+total records written : 4187
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424629021
+total records scanned : 2240
+total records written : 2239
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423343821
+total records scanned : 3958
+total records written : 3958
+file name is //home//hduser//LMS-2//tracking.log-20150108-1420741021
+total records scanned : 1468
+total records written : 1468
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424290621
+total records scanned : 2330
+total records written : 2330
+file name is //home//hduser//LMS-2//tracking.log-20150129-1422515821
+total records scanned : 3964
+total records written : 3964
+file name is //home//hduser//LMS-2//tracking.log-20150107-1420622221
+total records scanned : 5648
+total records written : 5648
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424535421
+total records scanned : 3120
+total records written : 3120
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423469821
+total records scanned : 5504
+total records written : 5503
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423927021
+total records scanned : 10586
+total records written : 10586
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424150221
+total records scanned : 4736
+total records written : 4735
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423408621
+total records scanned : 3801
+total records written : 3800
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423113421
+total records scanned : 6452
+total records written : 6450
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423898221
+total records scanned : 4695
+total records written : 4695
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423754221
+total records scanned : 3458
+total records written : 3458
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424416621
+total records scanned : 2861
+total records written : 2861
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424189821
+total records scanned : 2701
+total records written : 2698
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423628221
+total records scanned : 12521
+total records written : 12521
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424099821
+total records scanned : 8391
+total records written : 8389
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424013421
+total records scanned : 4627
+total records written : 4627
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423811821
+total records scanned : 3240
+total records written : 3240
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424600221
+total records scanned : 9142
+total records written : 9142
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424089021
+total records scanned : 3026
+total records written : 3026
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424420221
+total records scanned : 2854
+total records written : 2854
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424323021
+total records scanned : 2833
+total records written : 2833
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424452621
+total records scanned : 2963
+total records written : 2962
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423419421
+total records scanned : 6398
+total records written : 6397
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423588621
+total records scanned : 2218
+total records written : 2218
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424765821
+total records scanned : 2038
+total records written : 2038
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424549821
+total records scanned : 3592
+total records written : 3592
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424751421
+total records scanned : 7931
+total records written : 7931
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424067421
+total records scanned : 3537
+total records written : 3528
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423765021
+total records scanned : 4849
+total records written : 4849
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423300621
+total records scanned : 4107
+total records written : 4107
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423329421
+total records scanned : 3959
+total records written : 3959
+file name is //home//hduser//LMS-2//tracking.log-20150109-1420780621
+total records scanned : 4109
+total records written : 4109
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424423821
+total records scanned : 6456
+total records written : 6456
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423995421
+total records scanned : 2288
+total records written : 2288
+file name is //home//hduser//LMS-2//tracking.log-20150127-1422368221
+total records scanned : 3015
+total records written : 3015
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423826221
+total records scanned : 4333
+total records written : 4333
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423163821
+total records scanned : 5360
+total records written : 5359
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423307821
+total records scanned : 5919
+total records written : 5919
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423235821
+total records scanned : 13114
+total records written : 13112
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424103421
+total records scanned : 3118
+total records written : 3117
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424247421
+total records scanned : 5089
+total records written : 5088
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424542621
+total records scanned : 4751
+total records written : 4751
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424186221
+total records scanned : 14488
+total records written : 14486
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423149421
+total records scanned : 3990
+total records written : 3990
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424362621
+total records scanned : 7896
+total records written : 7895
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423210621
+total records scanned : 5925
+total records written : 5925
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423991821
+total records scanned : 2791
+total records written : 2791
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424276222
+total records scanned : 4347
+total records written : 4346
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423671421
+total records scanned : 1756
+total records written : 1752
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424571421
+total records scanned : 8246
+total records written : 8245
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423221421
+total records scanned : 13988
+total records written : 13988
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424153821
+total records scanned : 10885
+total records written : 10885
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424704621
+total records scanned : 2807
+total records written : 2807
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423851421
+total records scanned : 2955
+total records written : 2954
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423383421
+total records scanned : 1540
+total records written : 1540
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424657821
+total records scanned : 2461
+total records written : 2461
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423394221
+total records scanned : 1433
+total records written : 1433
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424733421
+total records scanned : 2520
+total records written : 2520
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423624621
+total records scanned : 3334
+total records written : 3334
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423412221
+total records scanned : 3899
+total records written : 3899
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423372621
+total records scanned : 2825
+total records written : 2824
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424193421
+total records scanned : 1966
+total records written : 1966
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424665021
+total records scanned : 2503
+total records written : 2503
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424585821
+total records scanned : 2576
+total records written : 2576
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423167421
+total records scanned : 3876
+total records written : 3876
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423505821
+total records scanned : 1434
+total records written : 1434
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424211421
+total records scanned : 2509
+total records written : 2509
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424510221
+total records scanned : 4090
+total records written : 4090
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423556221
+total records scanned : 7465
+total records written : 7465
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423653421
+total records scanned : 5646
+total records written : 5645
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423667821
+total records scanned : 6503
+total records written : 6498
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423214221
+total records scanned : 1769
+total records written : 1769
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423531021
+total records scanned : 5094
+total records written : 5091
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423117021
+total records scanned : 1615
+total records written : 1615
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424287021
+total records scanned : 4518
+total records written : 4518
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424499421
+total records scanned : 3090
+total records written : 3088
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423718221
+total records scanned : 5849
+total records written : 5849
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423999021
+total records scanned : 4938
+total records written : 4937
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423675021
+total records scanned : 2191
+total records written : 2191
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424143021
+total records scanned : 4813
+total records written : 4812
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423567021
+total records scanned : 2559
+total records written : 2557
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422958621
+total records scanned : 3453
+total records written : 3452
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423066621
+total records scanned : 4597
+total records written : 4596
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423498621
+total records scanned : 4695
+total records written : 4695
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423315021
+total records scanned : 2616
+total records written : 2616
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424117821
+total records scanned : 2625
+total records written : 2624
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424279821
+total records scanned : 7410
+total records written : 7410
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423477021
+total records scanned : 6208
+total records written : 6207
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424157421
+total records scanned : 3590
+total records written : 3590
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423844221
+total records scanned : 2447
+total records written : 2447
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424747821
+total records scanned : 6864
+total records written : 6863
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423160221
+total records scanned : 2958
+total records written : 2958
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424506621
+total records scanned : 8949
+total records written : 8949
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424715421
+total records scanned : 10867
+total records written : 10867
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424690221
+total records scanned : 4334
+total records written : 4334
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424348221
+total records scanned : 1378
+total records written : 1378
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424139421
+total records scanned : 5658
+total records written : 5657
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423228621
+total records scanned : 3956
+total records written : 3956
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423297021
+total records scanned : 3784
+total records written : 3784
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424621821
+total records scanned : 3021
+total records written : 3019
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423379821
+total records scanned : 6704
+total records written : 6704
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424017021
+total records scanned : 2646
+total records written : 2645
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424161021
+total records scanned : 3937
+total records written : 3935
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423981021
+total records scanned : 3325
+total records written : 3325
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424589421
+total records scanned : 9582
+total records written : 9582
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423649821
+total records scanned : 7118
+total records written : 7116
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423239421
+total records scanned : 2383
+total records written : 2381
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422854221
+total records scanned : 3819
+total records written : 3819
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423909021
+total records scanned : 2184
+total records written : 2183
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424031421
+total records scanned : 8929
+total records written : 8925
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423138621
+total records scanned : 3150
+total records written : 3149
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423027021
+total records scanned : 2770
+total records written : 2770
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424168221
+total records scanned : 4144
+total records written : 4143
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424258221
+total records scanned : 2255
+total records written : 2255
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422865021
+total records scanned : 8550
+total records written : 8550
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424074622
+total records scanned : 2649
+total records written : 2649
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422955021
+total records scanned : 6589
+total records written : 6589
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424431021
+total records scanned : 2560
+total records written : 2560
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424236621
+total records scanned : 4495
+total records written : 4494
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424427421
+total records scanned : 2159
+total records written : 2159
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423081021
+total records scanned : 2599
+total records written : 2598
+file name is //home//hduser//LMS-2//tracking.log-20150129-1422551821
+total records scanned : 9323
+total records written : 9320
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423124221
+total records scanned : 5193
+total records written : 5192
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423934221
+total records scanned : 1787
+total records written : 1787
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423952221
+total records scanned : 8726
+total records written : 8726
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423131421
+total records scanned : 3988
+total records written : 3988
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423559821
+total records scanned : 2206
+total records written : 2206
+file name is //home//hduser//LMS-2//tracking.log-20150126-1422296221
+total records scanned : 2454
+total records written : 2452
+file name is //home//hduser//LMS-2//tracking.log-20150201-1422778621
+total records scanned : 3368
+total records written : 3368
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424269021
+total records scanned : 5061
+total records written : 5061
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424618221
+total records scanned : 3945
+total records written : 3945
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424240221
+total records scanned : 4187
+total records written : 4187
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424629021
+total records scanned : 2240
+total records written : 2239
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423343821
+total records scanned : 3958
+total records written : 3958
+file name is //home//hduser//LMS-2//tracking.log-20150108-1420741021
+total records scanned : 1468
+total records written : 1468
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424290621
+total records scanned : 2330
+total records written : 2330
+file name is //home//hduser//LMS-2//tracking.log-20150129-1422515821
+total records scanned : 3964
+total records written : 3964
+file name is //home//hduser//LMS-2//tracking.log-20150107-1420622221
+total records scanned : 5648
+total records written : 5648
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424535421
+total records scanned : 3120
+total records written : 3120
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423469821
+total records scanned : 5504
+total records written : 5503
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423927021
+total records scanned : 10586
+total records written : 10586
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424150221
+total records scanned : 4736
+total records written : 4735
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423408621
+total records scanned : 3801
+total records written : 3800
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423113421
+total records scanned : 6452
+total records written : 6450
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423898221
+total records scanned : 4695
+total records written : 4695
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423754221
+total records scanned : 3458
+total records written : 3458
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424416621
+total records scanned : 2861
+total records written : 2861
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424189821
+total records scanned : 2701
+total records written : 2698
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423628221
+total records scanned : 12521
+total records written : 12521
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424099821
+total records scanned : 8391
+total records written : 8389
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424013421
+total records scanned : 4627
+total records written : 4627
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423811821
+total records scanned : 3240
+total records written : 3240
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424600221
+total records scanned : 9142
+total records written : 9142
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424089021
+total records scanned : 3026
+total records written : 3026
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424420221
+total records scanned : 2854
+total records written : 2854
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424323021
+total records scanned : 2833
+total records written : 2833
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424452621
+total records scanned : 2963
+total records written : 2962
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423419421
+total records scanned : 6398
+total records written : 6397
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423588621
+total records scanned : 2218
+total records written : 2218
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424765821
+total records scanned : 2038
+total records written : 2038
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424549821
+total records scanned : 3592
+total records written : 3592
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424751421
+total records scanned : 7931
+total records written : 7931
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424067421
+total records scanned : 3537
+total records written : 3528
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423765021
+total records scanned : 4849
+total records written : 4849
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423300621
+total records scanned : 4107
+total records written : 4107
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423329421
+total records scanned : 3959
+total records written : 3959
+file name is //home//hduser//LMS-2//tracking.log-20150109-1420780621
+total records scanned : 4109
+total records written : 4109
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424423821
+total records scanned : 6456
+total records written : 6456
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423995421
+total records scanned : 2288
+total records written : 2288
+file name is //home//hduser//LMS-2//tracking.log-20150127-1422368221
+total records scanned : 3015
+total records written : 3015
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423826221
+total records scanned : 4333
+total records written : 4333
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423163821
+total records scanned : 5360
+total records written : 5359
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423307821
+total records scanned : 5919
+total records written : 5919
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423235821
+total records scanned : 13114
+total records written : 13112
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424103421
+total records scanned : 3876
+total records written : 3875
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424247421
+total records scanned : 5721
+total records written : 5720
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424063821
+total records scanned : 6563
+total records written : 6563
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424758621
+total records scanned : 2229
+total records written : 2229
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423102621
+total records scanned : 2597
+total records written : 2597
+file name is //home//hduser//LMS-2//tracking.log-20150128-1422465421
+total records scanned : 3894
+total records written : 3894
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423318621
+total records scanned : 4121
+total records written : 4121
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424719021
+total records scanned : 10650
+total records written : 10650
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424711821
+total records scanned : 1825
+total records written : 1825
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424373421
+total records scanned : 1499
+total records written : 1499
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424488621
+total records scanned : 6758
+total records written : 6758
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424006221
+total records scanned : 2254
+total records written : 2253
+file name is //home//hduser//LMS-2//tracking.log-20150201-1422764221
+total records scanned : 2427
+total records written : 2427
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422965821
+total records scanned : 6936
+total records written : 6936
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423988221
+total records scanned : 4560
+total records written : 4559
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424611021
+total records scanned : 3258
+total records written : 3258
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423822621
+total records scanned : 3423
+total records written : 3417
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422944221
+total records scanned : 2265
+total records written : 2265
+file name is //home//hduser//LMS-2//tracking.log-20150130-1422641821
+total records scanned : 5631
+total records written : 5631
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423480621
+total records scanned : 1058
+total records written : 1058
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424121421
+total records scanned : 2601
+total records written : 2601
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423034221
+total records scanned : 2470
+total records written : 2470
+file name is //home//hduser//LMS-2//tracking.log-20150128-1422451021
+total records scanned : 2007
+total records written : 2006
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423012621
+total records scanned : 1603
+total records written : 1603
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423192621
+total records scanned : 4936
+total records written : 4936
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423901821
+total records scanned : 4528
+total records written : 4528
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423930621
+total records scanned : 4156
+total records written : 4156
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423747021
+total records scanned : 3889
+total records written : 3889
+file name is //home//hduser//LMS-2//tracking.log-20150106-1420539421
+total records scanned : 2826
+total records written : 2826
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423333021
+total records scanned : 1944
+total records written : 1943
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422937021
+total records scanned : 2932
+total records written : 2932
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424769421
+total records scanned : 3100
+total records written : 3099
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422973021
+total records scanned : 3571
+total records written : 3571
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423304221
+total records scanned : 1817
+total records written : 1817
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424477821
+total records scanned : 5705
+total records written : 5705
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423750621
+total records scanned : 2550
+total records written : 2549
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424283421
+total records scanned : 3039
+total records written : 3035
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422987421
+total records scanned : 3869
+total records written : 3869
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424503021
+total records scanned : 5740
+total records written : 5739
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424683021
+total records scanned : 4484
+total records written : 4484
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423919821
+total records scanned : 2941
+total records written : 2939
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422868621
+total records scanned : 11222
+total records written : 11221
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424078221
+total records scanned : 8188
+total records written : 8185
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423563421
+total records scanned : 5114
+total records written : 5114
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423570621
+total records scanned : 2777
+total records written : 2777
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423387021
+total records scanned : 1968
+total records written : 1968
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424395021
+total records scanned : 3342
+total records written : 3342
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423196221
+total records scanned : 3294
+total records written : 3293
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424449021
+total records scanned : 3016
+total records written : 3016
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423037821
+total records scanned : 3408
+total records written : 3408
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423678621
+total records scanned : 4842
+total records written : 4842
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424344621
+total records scanned : 4891
+total records written : 4891
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423293421
+total records scanned : 10364
+total records written : 10359
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423153021
+total records scanned : 1826
+total records written : 1826
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424557021
+total records scanned : 1580
+total records written : 1580
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424639821
+total records scanned : 1991
+total records written : 1991
+file name is //home//hduser//LMS-2//tracking.log-20150131-1422713821
+total records scanned : 2902
+total records written : 2899
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424405821
+total records scanned : 5409
+total records written : 5408
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424614621
+total records scanned : 12963
+total records written : 12963
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423455421
+total records scanned : 994
+total records written : 993
+file name is //home//shadowwalker//mm//tracking.log-20150128-1422451021
+total records scanned : 994
+total records written : 993
+file name is //home//shadowwalker//mm//tracking.log-20150128-1422451021
+total records scanned : 2371
+total records written : 2370
+file name is //home//shadowwalker//mm//tracking.log-20150128-1422451021

@@ -1,0 +1,126 @@
+<!-- ComboChart generated in R 3.2.0 by googleVis 0.5.8 package -->
+<!-- Tue Jun 30 03:01:19 2015 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataComboChartID3fcb4c9ed1ec () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "0",
+50,
+200 
+],
+[
+ "1",
+20,
+700 
+],
+[
+ "2",
+10,
+800 
+],
+[
+ "3",
+45,
+600 
+],
+[
+ "4",
+70,
+1000 
+],
+[
+ "5",
+95,
+1600 
+],
+[
+ "6",
+70,
+600 
+] 
+];
+data.addColumn('string','videoFrame');
+data.addColumn('number','No_Of_Video_Accesses');
+data.addColumn('number','Time_Spent');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartComboChartID3fcb4c9ed1ec() {
+var data = gvisDataComboChartID3fcb4c9ed1ec();
+var options = {};
+options["allowHtml"] = true;
+options["seriesType"] = "steppedArea";
+options["series"] = {1: {type:"line",targetAxisIndex: 1}};
+options["hAxis"] = {title: 'Video Frames', titleTextStyle: {color: '#FF0000'}};
+options["title"] = "Video Difficulty Analysis";
+options["height"] = "450";
+options["width"] = "790";
+
+
+    var chart = new google.visualization.ComboChart(
+    document.getElementById('ComboChartID3fcb4c9ed1ec')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartComboChartID3fcb4c9ed1ec);
+})();
+function displayChartComboChartID3fcb4c9ed1ec() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartComboChartID3fcb4c9ed1ec"></script>
+ 
+<!-- divChart -->
+  
+<div id="ComboChartID3fcb4c9ed1ec" 
+  style="width: 790; height: 450;">
+</div>

@@ -1,0 +1,9 @@
+total records scanned : 994
+total records written : 993
+file name is //home//shadowwalker//mm//tracking.log-20150128-1422451021
+total records scanned : 994
+total records written : 993
+file name is //home//shadowwalker//mm//tracking.log-20150128-1422451021
+total records scanned : 2371
+total records written : 2370
+file name is //home//shadowwalker//mm//tracking.log-20150128-1422451021

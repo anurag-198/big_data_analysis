@@ -1,0 +1,39 @@
+/* Page */
+body,html,div,blockquote,img,label,p,h1,h2,h3,h4,h5,h6,pre,ul,ol,li,dl,dt,dd,form,a,fieldset,input,th,td{border:0;outline:none;margin:0;padding:0;}
+ul, ul li{list-style: none;}
+ul.text {margin-bottom: 1em; line-height: 1.5em;}
+.text-center {text-align: center; height:40px;width: 50%;margin: 0 auto;}
+body {font: normal 13px Arial, sans-serif;}
+h2 {font: normal 26px Arial, sans-serif; padding: 20px 0; margin: 0 0 30px 0;}
+.wrap { width: 1120px; margin: 0 auto; float: left; 	padding-top: 5px;align:'center'}
+.demo-container {width: 250px; float:left; margin:2px"}
+.demo-resViewPort{float: left; width:850px;margin : 2px;}
+.viewport]{float: left; width:420px;margin : 2px;}
+
+.clear {clear: both;}
+.mybreadcrumb{padding: 0px; float: left; width: '100%'; margin: 0px; display:none;}
+.mycheckgrp {padding: 0px; float: left; width: '100%'; display:none;}
+.mycourselist{}
+.dcjq-count {float: right;}
+.footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+#container {
+   width:1020px;
+   height:60px;
+   border:1px solid #999;
+   margin:10px auto 0;
+  /* overflow:hidden;*/
+ }
+#top-left {
+   float:left;
+    margin-top:10px;
+ }
+#top-right {
+   float:right;
+   margin-top:10px;
+ }

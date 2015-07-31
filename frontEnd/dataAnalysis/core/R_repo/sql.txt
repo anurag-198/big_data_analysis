@@ -1,0 +1,35 @@
+select lmsUserId,courseName,eventNo,createDateTime from IITBxDataAnalytics.UserSessionOldLog where eventNo="13" and courseName="CS101.1x" group by WEEK(createDateTime)
+
+Age.R
+
+select (count(count)/(select count(count) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x" and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x"))*100)Percentage from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x" and (YEAR(curdate())-birth_year)<=25 and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x")
+
+
+
+select (count(count)/(select count(count) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x" and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x"))*100)Percentage from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x" and (YEAR(curdate())-birth_year)<=40 and(YEAR(curdate())-birth_year)>25 and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x")
+
+
+
+select (count(count)/(select count(count) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x" and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x"))*100)Percentage from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x" and (YEAR(curdate())-birth_year)>40 and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x")
+
+
+Education.R
+
+
+select (count(count)/(select count(count) from analytics.course_enrollment_education_level_daily where course_id="CS101.1x" and date=(select max(date) from analytics.course_enrollment_education_level_daily where course_id="CS101.1x"))*100)Percentage from analytics.course_enrollment_education_level_daily where course_id="CS101.1x" and (education_level="junior_secondary" or education_level="primary" or education_level="secondary")  and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x")
+
+select (count(count)/(select count(count) from analytics.course_enrollment_education_level_daily where course_id="CS101.1x" and date=(select max(date) from analytics.course_enrollment_education_level_daily where course_id="CS101.1x"))*100)Percentage from analytics.course_enrollment_education_level_daily where course_id="CS101.1x" and (education_level="bachelors" or education_level="masters" )  and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x")
+
+select (count(count)/(select count(count) from analytics.course_enrollment_education_level_daily where course_id="CS101.1x" and date=(select max(date) from analytics.course_enrollment_education_level_daily where course_id="CS101.1x"))*100)Percentage from analytics.course_enrollment_education_level_daily where course_id="CS101.1x" and (education_level="associates" or education_level="doctorates" )  and date=(select max(date) from analytics.course_enrollment_birth_year_daily where course_id="CS101.1x")
+
+
+
+Map.R
+
+select count,state from analytics.course_enrollment_location_current_state where course_id="CS101.1x" and date=(select max(date) from analytics.course_enrollment_location_current_state where course_id="CS101.1x") order by count desc limit 3
+
+
+Engagement.R
+
+
+

@@ -1,0 +1,138 @@
+<!-- Table generated in R 3.2.0 by googleVis 0.5.8 package -->
+<!-- Tue Jun 30 03:01:19 2015 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataTableID3fcbd0bcebb () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "CS101.1x",
+"files101",
+0,
+50,
+200 
+],
+[
+ "CS101.1x",
+"files101",
+1,
+20,
+700 
+],
+[
+ "CS101.1x",
+"files101",
+2,
+10,
+800 
+],
+[
+ "CS101.1x",
+"files101",
+3,
+45,
+600 
+],
+[
+ "CS101.1x",
+"files101",
+4,
+70,
+1000 
+],
+[
+ "CS101.1x",
+"files101",
+5,
+95,
+1600 
+],
+[
+ "CS101.1x",
+"files101",
+6,
+70,
+600 
+] 
+];
+data.addColumn('string','courseName');
+data.addColumn('string','videoSysId');
+data.addColumn('number','videoFrame');
+data.addColumn('number','No_Of_Video_Accesses');
+data.addColumn('number','Time_Spent');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartTableID3fcbd0bcebb() {
+var data = gvisDataTableID3fcbd0bcebb();
+var options = {};
+options["allowHtml"] = true;
+options["width"] =    300;
+options["height"] =    460;
+
+
+    var chart = new google.visualization.Table(
+    document.getElementById('TableID3fcbd0bcebb')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "table";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartTableID3fcbd0bcebb);
+})();
+function displayChartTableID3fcbd0bcebb() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTableID3fcbd0bcebb"></script>
+ 
+<!-- divChart -->
+  
+<div id="TableID3fcbd0bcebb" 
+  style="width: 300; height: 460;">
+</div>

@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Course Home | IITBombayX</title>
+    <!--
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="../../static/js/bootbox.js"></script>
+	<script src="../../static/js/bootstrap.file-input.js"></script>
+	<script type="text/javascript" src="../../static/js/gs_sortable.js"></script>
+	<script src="../../static/js/jquery-1.6.2.min.js"></script>
+	<script src="../../static/js/jquery-ui-1.8.15.custom.min.js"></script>
+	<link rel="stylesheet" href="../../static/js/jqueryCalendar.css">
+	<script>
+                jQuery(function() {
+                    jQuery( "#inf_date_field" ).datepicker();
+                });
+    </script>
+	<script type="text/javascript">
+  -->
+	<!--
+	var TSort_Data = new Array('my_table','i','s','d','d','i','i','i');
+	tsRegister();
+	//-->
+	</script>
+  <!--
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>  -->
+	<link href="../../static/css/dcaccordion.css" rel="stylesheet" type="text/css" />
+	<link href="../../static/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="../../static/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<script src="../../static/js/bootstrap.min.js"></script>
+  <script type="text/javascript">
+          obj.dd.on('click', function(event){
+          $(this).toggleClass('active');
+          return false;
+        });
+
+        //...
+
+        $(function() {
+
+          var dd = new DropDown( $('#dd') );
+
+          $(document).click(function() {
+            // all dropdowns
+            $('.wrapper-dropdown-1').removeClass('active');
+          });
+
+        });
+
+        function popup() {
+          alert("Help");
+        }
+
+        function displayList() {
+          document.getElementById('sublist').style.display = 'block';
+        }
+
+        function hideList() {
+          document.getElementById('sublist').style.display = 'none';
+        }
+
+  </script>
+	<style type="text/css">
+	    .bs-example{
+	    	margin: 20px;
+	    }
+
+		#header {
+			width:100%;
+			height: 70px;
+			font-size:16px;
+			margin: auto;
+			text-align: center;
+		}
+
+    #helpbutton {
+      background: #9bc7de;
+      color: white;
+      outline: none;
+      cursor: pointer;
+      font-weight: bold;
+      border: none;
+    }
+
+    .wrapper-dropdown {
+      /* Size and position */
+      position: relative; /* Enable absolute positioning for children and pseudo elements */
+      width: 100px;
+      padding: 10px;
+      margin: 0 auto;
+      height: 30px;
+      margin-right: 25px;
+      margin-top: 10px;
+      /* Styles */
+      background: #9bc7de;
+      color: white;
+      outline: none;
+      cursor: pointer;
+      /* Font settings */
+      font-weight: bold;
+    }
+
+    .wrapper-dropdown:after {
+      content: "";
+      width: 0;
+      height: 0;
+      position: absolute;
+      right: 16px;
+      top: 50%;
+      margin-top: -6px;
+      border-width: 6px 0 6px 6px;
+      border-style: solid;
+      border-color: transparent #fff;    
+    }
+
+    .wrapper-dropdown-1 .dropdown {
+  /* Size & position */
+    position: absolute;
+    top: 100%;
+    left: 0; /* Size */
+    right: 0; /* Size */
+
+    /* Styles */
+    background: #fff;
+    font-weight: normal; /* Overwrites previous font-weight: bold; */
+
+    /* Hiding */
+    opacity: 0;
+    pointer-events: none;
+    }
+
+    #sublist {
+      margin-left: 100px;
+    }
+
+		#menu {
+			width:100%;
+			height:50px;
+			font-size:16px;
+			margin: auto;
+			text-align: center;
+			background-color: #666666;
+			float: left;
+		}
+
+		#menu ul {
+			height: auto;
+			padding: 8px 0px;
+			margin:0px;
+		}
+
+		#menu li {
+			display: inline;
+			float: left;
+			padding : 10px;
+		}
+
+		#menu a {
+			text-decoration: none;
+		}
+
+		#options {
+			text-align: center;
+			table-layout: auto;
+			float: center;
+			background-color: #E0E0E0;
+			margin : 10px;
+			height : 350px;
+		}
+    
+		#footer {
+			width:100%;
+			height:50px;
+			font-size:16px;
+			margin: auto;
+      margin-top:20px;
+			padding-top: 10px;
+			padding-right: 10px;
+			text-align: right;
+			background-color: #666666;
+		}
+	</style>
+	<style type="text/css">
+
+			#pagebody { position: inherit !important; width: 100%; } /* DO NOT EDIT */
+			#pagebody-inner { position: inherit !important; width: 100%; } /* DO NOT EDIT */
+
+			#alpha, #beta, #gamma, #delta {
+			    display: inline; /* DO NOT EDIT */
+			    position: inherit !important; /* DO NOT EDIT */
+			    float: left; /* DO NOT EDIT */
+			    min-height: 1px; /* DO NOT EDIT */
+			}
+
+			#centernav {
+			  width: 100%; /* if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
+			  margin-left: auto ;
+			  margin-right: auto ;
+			}
+
+			#dropnav 
+			{height:25px; background:#666666;} /* Changes the height and bg color of the main menu */
+
+			#dropnav ul
+			{margin:0px; padding:0px;}
+
+			#dropnav ul li
+			{display:inline; float:left; list-style:none; position:relative; height:40px; width: 200px;} /* only edit the last 2 items - sets the width of the main menu */
+
+      #dropnav ul li li
+      {border:solid;border-width:1px;border-color:#666666;}
+
+			#dropnav li a
+			{text-decoration:none;color: #E0E0E0;} /* Changes the link color of items on the main menu */
+
+			#dropnav li a:hover
+			{text-decoration:none;padding-top: 5px;padding-left: 5px;padding-bottom: 5px;padding-right: 5px;}/* Changes the hover color of items on the main menu */
+
+			#dropnav li ul
+			{margin:0px; padding:0px; display:none; position:absolute; left:0px; z-index: 99; top:25px; background-color:#C0C0C0;} /* Only edit the last 2 items - set the top margin and background color of the submenus */
+
+			#dropnav li:hover ul
+			{display:block; width:200px;} /* sets the width of the submenus */
+
+			#dropnav li li
+			{list-style:none; display:list-item;} /* DO NOT EDIT */
+
+			#dropnav li li a
+			{color:#666666; text-decoration:none;} /* Changes the link color of items in the submenu */
+
+			#dropnav li li a:hover
+			{color:#E0E0E0; text-decoration:none;} /* Changes the hover color of items in the submenu */
+
+			#main  {padding-top: 2px;} /* Sets the padding of items in the main menu */
+</style>
+</head>
+<body>
+<div class="header-class">
+<div id="header" class="heading">
+		<a class="navbar-brand" href="/">
+		  <div class="navbar-brand-logo" alt="edX"></div>
+		  <img src="../../static/images/IITBombayX.png">
+		</a>
+		<div style="float:left;padding-top:25px;padding-left:10px;padding-right:10px;"><h4>Analytics</h4></div>
+		<ul class="nav navbar-nav">
+		        <li>
+		          <a href="CourseHome.html" style="float:left;padding-top:35px;padding-left:10px;padding-right:10px;">{{courseName}}</a>
+		        </li>
+		</ul>
+    <!--
+      <ul class="nav navbar-nav navbar-right">
+        
+          <li>
+          <button onclick="popup()" id="helpbutton" style="float:left;margin-top:40px;margin-left:10px;margin-right:10px;">Help</button>
+          </li>
+          <li style="">
+          <select id="user-options">
+            <option>userName</option>
+            <option onclick="logout()">Log Out</option>
+          </select>
+            <div class="wrapper-dropdown">
+                <span>User</span>
+                <ul class="dropdown">
+                  <li><a href="LandingPage.html">Log out</a></li>
+                </ul>
+          </div>
+          </li>
+      </ul>
+      -->
+</div>
+<div id="menu" class="navigation-bar">
+<div id="centernav">
+    <div id="dropnav">
+        <ul>
+            <li id="main">
+            <a href="#">Enrollment</a>
+                <ul id="subnav" style="margin-left:15px;">
+                      <li><a href="enroll/activity">Activity</a></li>
+                      <li id"demographics" onmouseover="displayList()" onmouseout="hideList()"><a href="#">Demographics</a>
+                        <ul id="sublist" style="display:none;top:-1px;margin-left:180px;">
+                            <li><a href="enroll/age">Age</a></li>
+                            <li><a href="enroll/education">Education</a></li>
+                            <li><a href="enroll/gender">Gender</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="enroll/geography">Geography</a></li>
+                </ul>            
+            </li>
+
+            <li id="main">
+            <a href="#">Engagement</a>
+                <ul id="subnav">
+                      <li><a href="engagement/navigation">User Navigation</a></li>
+                      <li><a href="engagement/content">Content</a></li>
+                </ul>            
+            </li>
+
+            <li id="main">
+            <a href="#">Student Performance</a>
+
+                <ul id="subnav">
+                      <li><a href="answer">Answer Distribution</a></li>
+                </ul>            
+            </li>
+
+            <li id="main">
+            <a href="#" class="topic">Course Performance</a>
+              <ul id="subnav">
+                <li class="sub-topic"><a href="perform/video">Video content</a></li>
+              </ul>
+            </li>
+        </ul>    
+    </div>
+</div>
+</div>
+<!--
+<div id="inf_date_field" style="width:100%;padding-left:1000px;background-color:#E0E0E0;"><a href="javascript:;"></a>
+      <form action="action_page.php" method="POST">
+        Analyze for: 
+        <input type="date" name="date">
+        <input type="submit" name="submit" onclick="javascript:callFunction();">
+      </form>
+  </div>
+  -->
+<main class="col-xs-12 main" id="content" aria-label="Application" style="padding-top:80px;background-color:#E0E0E0;padding-bottom:10px;height:650px;">
+  <div class="row course-home-table-outer" id="options" style="height:550px;">
+    
+      <div class="col-sm-3" style="border:solid;border-width:thin;border-color:#C0C0C0;padding-top:20px;padding-bottom:20px;width:280px;margin-right:20px;margin-left:70px;">
+        <header class="heading-outer">
+          <h4 class="heading">Who are my students?</h4>
+        </header>
+
+        <div class="course-home-table">
+          <div class="item name">
+            <h5 class="ico fa fa-child" aria-hidden="true"></h5><strong>Enrollment</strong> 
+          </div>
+
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="enroll/activity">How many students are in my course?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-child" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Activity
+                  
+                
+              </div>
+            </div>
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="enroll/age">How old are my students?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-child" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Demographics
+                  
+                    <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                  
+                
+                  Age
+                  
+                
+              </div>
+            </div>
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="enroll/education">What level of education do my students have?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-child" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Demographics
+                  
+                    <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                  
+                
+                  Education
+                  
+                
+              </div>
+            </div>
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="enroll/gender">What is the student gender breakdown?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-child" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Demographics
+                  
+                    <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                  
+                
+                  Gender
+                  
+                
+              </div>
+            </div>
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="enroll/geography">Where are my students?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-child" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Geography
+                  
+                
+              </div>
+            </div>
+          
+        </div>
+      </div>
+    
+      <div class="col-sm-3" style="border:solid;border-width:thin;border-color:#C0C0C0;padding-top:20px;padding-bottom:20px;width:280px;margin-right:20px;">
+        <header class="heading-outer">
+          <h4 class="heading">What are students doing in my course?</h4>
+        </header>
+
+        <div class="course-home-table">
+          <div class="item name">
+            <h5 class="ico fa fa-bar-chart" aria-hidden="true"></h5><strong>Engagement</strong> 
+          </div>
+
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="EngagementContent.html">How many students are interacting with my course?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-bar-chart" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  User Navigation
+                  
+                
+              </div>
+            </div>
+
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="EngagementContent.html">How many students are interacting with my course?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-bar-chart" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Content
+                  
+                
+              </div>
+            </div>
+          
+        </div>
+      </div>
+    
+      <div class="col-sm-3" style="border:solid;border-width:thin;border-color:#C0C0C0;padding-top:20px;padding-bottom:20px;width:280px;margin-right:20px;">
+        <header class="heading-outer">
+          <h4 class="heading">How are students doing on course assignments?</h4>
+        </header>
+
+        <div class="course-home-table">
+          <div class="item name">
+            <h5 class="ico fa fa-check-square-o" aria-hidden="true"></h5><strong> Student Performance</strong>
+          </div>
+
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="GradedContentPerformance.html">How are students doing on graded course assignments?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-check-square-o" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Graded Content
+                  
+                
+              </div>
+            </div>
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="UngardedContentPerformance.html">How are students doing on ungraded exercises?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-check-square-o" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Ungraded Problems
+                  
+                
+              </div>
+            </div>
+
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="EngagementContent.html">How many students are interacting with my course?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-bar-chart" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Answer Distribution
+                  
+                
+              </div>
+            </div>
+          
+        </div>
+      </div>
+    
+
+      <div class="col-sm-3" style="border:solid;border-width:thin;border-color:#C0C0C0;padding-top:20px;padding-bottom:20px;width:280px;margin-right:20px;">
+        <header class="heading-outer">
+          <h4 class="heading">What are students doing in my course?</h4>
+        </header>
+
+        <div class="course-home-table">
+          <div class="item name">
+            <h5 class="ico fa fa-bar-chart" aria-hidden="true"></h5><strong>Course Peformance</strong> 
+          </div>
+
+          
+            <div class="item" style="border:solid;border-width:thin;border-color:#C0C0C0;margin-top:5px;
+            margin-bottom:5px;">
+              <div class="title"><a href="EngagementContent.html">How many students are interacting with my course?</a></div>
+              <div class="breadcrumbs">
+                <i class="ico fa fa-bar-chart" aria-hidden="true"></i>
+                <i class="ico fa fa-caret-right" aria-hidden="true"></i>
+                
+                  Video Content
+                  
+                
+              </div>
+            </div>
+        </div>
+      </div>
+  </div>
+ </div>
+ </div>
+ </main>
+ <div style="background-color:#666666;position:relative;margin-top:690px;">
+<div id="footer">
+<h4 style="margin-top:20px;padding-right:20px;color:#C0C0C0;">IITBombayX Data Analytics</h4>
+</div>
+</div>
+</body>
+</html>

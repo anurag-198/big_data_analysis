@@ -1,0 +1,18 @@
+library(RMySQL)
+library(googleVis)
+mydb=dbConnect(MySQL(),user='root',password='root123',dbname='analytics',host='localhost')
+courseName <- as.character(myArgs[1])
+date=as.character(myArgs[2])
+print(courseName)
+htmlFileName <- as.character(myArgs[3])
+tableFileName <- as.character(myArgs[4])
+print(date)
+print(htmlFileName)
+qry="select count,state from course_enrollment_location_current_state where course_id='$courseName' and date='$date'";
+rs = dbSendQuery(mydb,qry)
+data = fetch(rs, n=-1)
+data$Percentage=data$count/with(data,ave(count),list(state),FUN=sum)*100
+G <- gvisGeoChart(data,"state","count","Percentage",options=list(region="IN", displayMode="region",colorAxis="{colors:['purple', 'red', 'orange','green']}",resolution="provinces",width=600, height=400))
+ T <- gvisTable(data, options=list(width=250, height=400))
+cat(G$html$chart, file=htmlFileName)
+cat(T$html$chart, file=tableFileName)

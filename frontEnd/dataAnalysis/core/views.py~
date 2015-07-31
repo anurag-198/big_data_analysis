@@ -1,0 +1,36 @@
+from django.shortcuts import render_to_response
+from django.shortcuts import render, redirect
+from django.template import Template, Context
+from django.core import serializers
+from django.http import HttpResponse
+from django.template import RequestContext, loader
+from django.contrib import auth
+from django.core.context_processors import csrf
+from django.contrib.auth import authenticate,login,logout
+from django.contrib.sessions.models import Session
+import hashlib
+import datetime
+from datetime import timedelta
+from django.db import connection
+from django.conf import settings
+from pyjavaproperties import Properties#for importing .properties file
+# from django.utils import simplejson
+import json
+import re
+import collections
+import demjson
+import os
+import subprocess
+
+def openFile(request,fileName):
+	str1="storage/"+fileName+".html";
+	return render_to_response(str1)
+
+def enrollment(request):
+	str1="Rscript"+" enrolled.R"
+	ret1=subprocess.call(str1,shell=True)
+	return render_to_response('core/Activity.html')
+
+def courseEnrollmentByBirthYear(request,course_id):
+	currentYear=datetime.now().currentYear
+	

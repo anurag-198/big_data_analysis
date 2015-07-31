@@ -1,0 +1,175 @@
+<!-- LineChart generated in R 3.2.0 by googleVis 0.5.8 package -->
+<!-- Wed Jul  1 21:53:12 2015 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataLineChartID76a72bc4067b () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "2015-01-13 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-01-20 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-01-27 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-02-03 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-02-10 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-02-17 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-02-24 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-03-03 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-03-10 00:00:00",
+0,
+0,
+0,
+0 
+],
+[
+ "2015-03-17 00:00:00",
+0,
+0,
+0,
+0 
+] 
+];
+data.addColumn('string','End Day Of Week');
+data.addColumn('number','No: Of Active Users');
+data.addColumn('number','N0: Of Users Watched a Video');
+data.addColumn('number','No: Of Students Attempted A Problem');
+data.addColumn('number','No: Of Students Active On Forum');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartLineChartID76a72bc4067b() {
+var data = gvisDataLineChartID76a72bc4067b();
+var options = {};
+options["allowHtml"] = true;
+options["vAxis"] = {title: 'No. of Students', titleTextStyle: {color: '#FF0000'}};
+options["hAxis"] = {title: 'How Students Interact With the Course', titleTextStyle: {color: '#FF0000'}};
+options["title"] = "Interaction Of Students With The Course";
+options["height"] = "460";
+options["width"] = "700";
+
+
+    chartLineChartID76a72bc4067b = new google.visualization.ChartWrapper({
+    dataTable: data,       
+    chartType: 'LineChart',
+    containerId: 'LineChartID76a72bc4067b',
+    options: options
+    });
+    chartLineChartID76a72bc4067b.draw();
+    
+
+}
+
+  function openEditorLineChartID76a72bc4067b() {
+  var editor = new google.visualization.ChartEditor();
+  google.visualization.events.addListener(editor, 'ok',
+  function() { 
+  chartLineChartID76a72bc4067b = editor.getChartWrapper();  
+  chartLineChartID76a72bc4067b.draw(document.getElementById('LineChartID76a72bc4067b')); 
+  }); 
+  editor.openDialog(chartLineChartID76a72bc4067b);
+  }
+    
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "charteditor";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartLineChartID76a72bc4067b);
+})();
+function displayChartLineChartID76a72bc4067b() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartLineChartID76a72bc4067b"></script>
+ 
+<!-- divChart -->
+<input type='button' onclick='openEditorLineChartID76a72bc4067b()' value='Edit Chart!'/>  
+<div id="LineChartID76a72bc4067b" 
+  style="width: 700; height: 460;">
+</div>

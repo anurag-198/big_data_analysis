@@ -1,0 +1,125 @@
+May 30, 2015 12:54:37 AM org.apache.tomcat.util.digester.SetPropertiesRule begin
+WARNING: [SetPropertiesRule]{Server/Service/Engine/Host/Context} Setting property 'source' to 'org.eclipse.jst.jee.server:IITBackupProcessor' did not find a matching property.
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/8.0.15
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Nov 2 2014 19:25:20 UTC
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         8.0.15.0
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.13.0-46-generic
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JAVA_HOME:             /usr/lib/jvm/jdk1.7.0_51/jre
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.7.0_51-b13
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/hduser/eklavyaws/.metadata/.plugins/org.eclipse.wst.server.core/tmp0
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /opt/apache-tomcat-8.0.15
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/hduser/eklavyaws/.metadata/.plugins/org.eclipse.wst.server.core/tmp0
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/opt/apache-tomcat-8.0.15
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dwtp.deploy=/home/hduser/eklavyaws/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/opt/apache-tomcat-8.0.15/endorsed
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dfile.encoding=UTF-8
+May 30, 2015 12:54:37 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+May 30, 2015 12:54:37 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8080"]
+May 30, 2015 12:54:37 AM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFO: Using a shared selector for servlet write/read
+May 30, 2015 12:54:37 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-8009"]
+May 30, 2015 12:54:37 AM org.apache.tomcat.util.net.NioSelectorPool getSharedSelector
+INFO: Using a shared selector for servlet write/read
+May 30, 2015 12:54:37 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 956 ms
+May 30, 2015 12:54:37 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+May 30, 2015 12:54:37 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/8.0.15
+May 30, 2015 12:54:38 AM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 30, 2015 12:54:38 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8080"]
+May 30, 2015 12:54:38 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-8009"]
+May 30, 2015 12:54:38 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1040 ms
+May 30, 2015 12:54:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Database Initialised
+
+May 30, 2015 1:17:40 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/EdxBackupProcessor] has started
+May 30, 2015 1:17:40 AM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated for Servlet [EDXDataStaging.EdxSqlReader]
+May 30, 2015 1:17:41 AM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated for Servlet [EDXDataStaging.EdxSqlReader]
+May 30, 2015 1:17:42 AM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated for Servlet [EDXDataStaging.EdxSqlReader]
+May 30, 2015 1:17:43 AM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesJdbc
+WARNING: The web application [EdxBackupProcessor] registered the JDBC driver [com.mysql.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+May 30, 2015 1:17:43 AM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+WARNING: The web application [EdxBackupProcessor] is still processing a request that has yet to finish. This is very likely to create a memory leak. You can control the time allowed for requests to finish by using the unloadDelay attribute of the standard Context implementation. Stack trace of request processing thread:
+ java.net.SocketInputStream.socketRead0(Native Method)
+ java.net.SocketInputStream.read(SocketInputStream.java:152)
+ java.net.SocketInputStream.read(SocketInputStream.java:122)
+ com.mysql.jdbc.util.ReadAheadInputStream.fill(ReadAheadInputStream.java:112)
+ com.mysql.jdbc.util.ReadAheadInputStream.readFromUnderlyingStreamIfNecessary(ReadAheadInputStream.java:159)
+ com.mysql.jdbc.util.ReadAheadInputStream.read(ReadAheadInputStream.java:187)
+ com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:3158)
+ com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3615)
+ com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3604)
+ com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4149)
+ com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2615)
+ com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2776)
+ com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2840)
+ com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2082)
+ com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1302)
+ org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:197)
+ org.apache.tomcat.dbcp.dbcp2.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:197)
+ LMSDataLoader.Dao.UserSessionOldDao.insertRec(UserSessionOldDao.java:282)
+ EDXDataStaging.EdxSqlReader.doGet(EdxSqlReader.java:510)
+ javax.servlet.http.HttpServlet.service(HttpServlet.java:618)
+ javax.servlet.http.HttpServlet.service(HttpServlet.java:725)
+ org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:291)
+ org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+ org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+ org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:239)
+ org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+ org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:203)
+ org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:106)
+ org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:501)
+ org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:142)
+ org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+ org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:610)
+ org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+ org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:537)
+ org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1085)
+ org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:658)
+ org.apache.coyote.http11.Http11NioProtocol$Http11ConnectionHandler.process(Http11NioProtocol.java:222)
+ org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1556)
+ org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1513)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+ org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+ java.lang.Thread.run(Thread.java:744)
+May 30, 2015 1:17:43 AM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+WARNING: The web application [EdxBackupProcessor] appears to have started a thread named [Abandoned connection cleanup thread] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.lang.Object.wait(Native Method)
+ java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:135)
+ com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:41)
+May 30, 2015 1:17:45 AM org.apache.jasper.servlet.TldScanner scanJars
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+May 30, 2015 1:17:45 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading Context with name [/EdxBackupProcessor] is completed

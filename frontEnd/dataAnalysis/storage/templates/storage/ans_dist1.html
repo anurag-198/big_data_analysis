@@ -1,0 +1,116 @@
+<!-- ColumnChart generated in R 3.2.1 by googleVis 0.5.8 package -->
+<!-- Thu Jul  2 23:46:59 2015 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataColumnChartID1cb42361ea6 () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "Q1",
+661,
+43 
+],
+[
+ "Q2",
+577,
+113 
+],
+[
+ "Q3",
+573,
+109 
+],
+[
+ "Q4",
+633,
+72 
+],
+[
+ "Q5",
+582,
+86 
+],
+[
+ "Q6",
+505,
+185 
+] 
+];
+data.addColumn('string','Problem');
+data.addColumn('number','Correct');
+data.addColumn('number','Incorrect');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartColumnChartID1cb42361ea6() {
+var data = gvisDataColumnChartID1cb42361ea6();
+var options = {};
+options["allowHtml"] = true;
+options["isStacked"] = true;
+
+
+    var chart = new google.visualization.ColumnChart(
+    document.getElementById('ColumnChartID1cb42361ea6')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "corechart";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartColumnChartID1cb42361ea6);
+})();
+function displayChartColumnChartID1cb42361ea6() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartColumnChartID1cb42361ea6"></script>
+ 
+<!-- divChart -->
+  
+<div id="ColumnChartID1cb42361ea6" 
+  style="width: 500; height: automatic;">
+</div>

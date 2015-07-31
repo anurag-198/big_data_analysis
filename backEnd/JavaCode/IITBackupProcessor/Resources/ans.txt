@@ -1,0 +1,1977 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+file name is //home//hduser//LMS-2//tracking.log-20150106-1420539421
+file name is //home//hduser//LMS-2//tracking.log-20150107-1420622221
+file name is //home//hduser//LMS-2//tracking.log-20150107-1420622221
+file name is //home//hduser//LMS-2//tracking.log-20150108-1420741021
+file name is //home//hduser//LMS-2//tracking.log-20150108-1420741021
+file name is //home//hduser//LMS-2//tracking.log-20150109-1420780621
+file name is //home//hduser//LMS-2//tracking.log-20150109-1420780621
+file name is //home//hduser//LMS-2//tracking.log-20150126-1422296221
+file name is //home//hduser//LMS-2//tracking.log-20150126-1422296221
+file name is //home//hduser//LMS-2//tracking.log-20150127-1422368221
+file name is //home//hduser//LMS-2//tracking.log-20150127-1422368221
+file name is //home//hduser//LMS-2//tracking.log-20150128-1422451021
+file name is //home//hduser//LMS-2//tracking.log-20150128-1422465421
+file name is //home//hduser//LMS-2//tracking.log-20150129-1422515821
+file name is //home//hduser//LMS-2//tracking.log-20150129-1422515821
+file name is //home//hduser//LMS-2//tracking.log-20150129-1422551821
+file name is //home//hduser//LMS-2//tracking.log-20150129-1422551821
+file name is //home//hduser//LMS-2//tracking.log-20150130-1422641821
+file name is //home//hduser//LMS-2//tracking.log-20150131-1422713821
+file name is //home//hduser//LMS-2//tracking.log-20150201-1422764221
+file name is //home//hduser//LMS-2//tracking.log-20150201-1422778621
+file name is //home//hduser//LMS-2//tracking.log-20150201-1422778621
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422854221
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422854221
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422865021
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422865021
+file name is //home//hduser//LMS-2//tracking.log-20150202-1422868621
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422937021
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422944221
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422955021
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422955021
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422958621
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422958621
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422965821
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422973021
+file name is //home//hduser//LMS-2//tracking.log-20150203-1422987421
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423012621
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423027021
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423027021
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423034221
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423037821
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423066621
+file name is //home//hduser//LMS-2//tracking.log-20150204-1423066621
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423081021
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423081021
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423102621
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423113421
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423113421
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423117021
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423117021
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423124221
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423124221
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423131421
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423131421
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423138621
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423138621
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423149421
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423149421
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423153021
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423160221
+file name is //home//hduser//LMS-2//tracking.log-20150205-1423160221
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423163821
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423163821
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423167421
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423167421
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423192621
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423196221
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423210621
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423210621
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423214221
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423214221
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423221421
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423221421
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423228621
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423228621
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423235821
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423235821
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423239421
+file name is //home//hduser//LMS-2//tracking.log-20150206-1423239421
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423293421
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423297021
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423297021
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423300621
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423300621
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423304221
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423307821
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423307821
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423315021
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423315021
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423318621
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423329421
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423329421
+file name is //home//hduser//LMS-2//tracking.log-20150207-1423333021
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423343821
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423343821
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423372621
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423372621
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423379821
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423379821
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423383421
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423383421
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423387021
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423394221
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423394221
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423408621
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423408621
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423412221
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423412221
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423419421
+file name is //home//hduser//LMS-2//tracking.log-20150208-1423419421
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423455421
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423469821
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423469821
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423477021
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423477021
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423480621
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423498621
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423498621
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423505821
+file name is //home//hduser//LMS-2//tracking.log-20150209-1423505821
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423531021
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423531021
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423556221
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423556221
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423559821
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423559821
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423563421
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423567021
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423567021
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423570621
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423588621
+file name is //home//hduser//LMS-2//tracking.log-20150210-1423588621
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423624621
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423624621
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423628221
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423628221
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423649821
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423649821
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423653421
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423653421
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423667821
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423667821
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423671421
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423671421
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423675021
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423675021
+file name is //home//hduser//LMS-2//tracking.log-20150211-1423678621
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423718221
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423718221
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423747021
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423750621
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423754221
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423754221
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423765021
+file name is //home//hduser//LMS-2//tracking.log-20150212-1423765021
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423811821
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423811821
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423822621
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423826221
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423826221
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423844221
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423844221
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423851421
+file name is //home//hduser//LMS-2//tracking.log-20150213-1423851421
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423898221
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423898221
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423901821
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423909021
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423909021
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423919821
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423927021
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423927021
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423930621
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423934221
+file name is //home//hduser//LMS-2//tracking.log-20150214-1423934221
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423952221
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423952221
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423981021
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423981021
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423988221
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423991821
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423991821
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423995421
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423995421
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423999021
+file name is //home//hduser//LMS-2//tracking.log-20150215-1423999021
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424006221
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424013421
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424013421
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424017021
+file name is //home//hduser//LMS-2//tracking.log-20150215-1424017021
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424031421
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424031421
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424063821
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424067421
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424067421
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424074622
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424074622
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424078221
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424089021
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424089021
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424099821
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424099821
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424103421
+file name is //home//hduser//LMS-2//tracking.log-20150216-1424103421
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424117821
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424117821
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424121421
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424139421
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424139421
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424143021
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424143021
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424150221
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424150221
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424153821
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424153821
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424157421
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424157421
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424161021
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424161021
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424168221
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424168221
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424186221
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424186221
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424189821
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424189821
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424193421
+file name is //home//hduser//LMS-2//tracking.log-20150217-1424193421
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424211421
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424211421
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424236621
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424236621
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424240221
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424240221
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424247421
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424247421
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424258221
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424258221
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424269021
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424269021
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424276222
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424276222
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424279821
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424279821
+file name is //home//hduser//LMS-2//tracking.log-20150218-1424283421
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424287021
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424287021
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424290621
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424290621
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424323021
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424323021
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424344621
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424348221
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424348221
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424362621
+file name is //home//hduser//LMS-2//tracking.log-20150219-1424362621
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424373421
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424395021
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424405821
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424416621
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424416621
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424420221
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424420221
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424423821
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424423821
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424427421
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424427421
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424431021
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424431021
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424449021
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424452621
+file name is //home//hduser//LMS-2//tracking.log-20150220-1424452621
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424477821
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424488621
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424499421
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424499421
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424503021
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424506621
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424506621
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424510221
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424510221
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424535421
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424535421
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424542621
+file name is //home//hduser//LMS-2//tracking.log-20150221-1424542621
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424549821
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424549821
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424557021
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424571421
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424571421
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424585821
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424585821
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424589421
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424589421
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424600221
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424600221
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424611021
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424614621
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424618221
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424618221
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424621821
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424621821
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424629021
+file name is //home//hduser//LMS-2//tracking.log-20150222-1424629021
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424639821
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424657821
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424657821
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424665021
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424665021
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424683021
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424690221
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424690221
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424704621
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424704621
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424711821
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424715421
+file name is //home//hduser//LMS-2//tracking.log-20150223-1424715421
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424719021
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424733421
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424733421
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424747821
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424747821
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424751421
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424751421
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424758621
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424765821
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424765821
+file name is //home//hduser//LMS-2//tracking.log-20150224-1424769421
+ scanned : 5089
+total records scanned : 10364
+total records scanned : 1058
+total records scanned : 10586
+total records scanned : 10586
+total records scanned : 10650
+total records scanned : 10867
+total records scanned : 10867
+total records scanned : 10885
+total records scanned : 10885
+total records scanned : 11222
+total records scanned : 12521
+total records scanned : 12521
+total records scanned : 12963
+total records scanned : 13114
+total records scanned : 13114
+total records scanned : 1378
+total records scanned : 1378
+total records scanned : 13988
+total records scanned : 13988
+total records scanned : 1433
+total records scanned : 1433
+total records scanned : 1434
+total records scanned : 1434
+total records scanned : 14488
+total records scanned : 14488
+total records scanned : 1468
+total records scanned : 1468
+total records scanned : 1499
+total records scanned : 1540
+total records scanned : 1540
+total records scanned : 1580
+total records scanned : 1603
+total records scanned : 1615
+total records scanned : 1615
+total records scanned : 1756
+total records scanned : 1756
+total records scanned : 1769
+total records scanned : 1769
+total records scanned : 1787
+total records scanned : 1787
+total records scanned : 1817
+total records scanned : 1825
+total records scanned : 1826
+total records scanned : 1944
+total records scanned : 1966
+total records scanned : 1966
+total records scanned : 1968
+total records scanned : 1991
+total records scanned : 2007
+total records scanned : 2038
+total records scanned : 2038
+total records scanned : 2159
+total records scanned : 2159
+total records scanned : 2184
+total records scanned : 2184
+total records scanned : 2191
+total records scanned : 2191
+total records scanned : 2206
+total records scanned : 2206
+total records scanned : 2218
+total records scanned : 2218
+total records scanned : 2229
+total records scanned : 2240
+total records scanned : 2240
+total records scanned : 2254
+total records scanned : 2255
+total records scanned : 2255
+total records scanned : 2265
+total records scanned : 2288
+total records scanned : 2288
+total records scanned : 2330
+total records scanned : 2330
+total records scanned : 2383
+total records scanned : 2383
+total records scanned : 2427
+total records scanned : 2447
+total records scanned : 2447
+total records scanned : 2454
+total records scanned : 2454
+total records scanned : 2461
+total records scanned : 2461
+total records scanned : 2470
+total records scanned : 2503
+total records scanned : 2503
+total records scanned : 2509
+total records scanned : 2509
+total records scanned : 2520
+total records scanned : 2520
+total records scanned : 2550
+total records scanned : 2559
+total records scanned : 2559
+total records scanned : 2560
+total records scanned : 2560
+total records scanned : 2576
+total records scanned : 2576
+total records scanned : 2597
+total records scanned : 2599
+total records scanned : 2599
+total records scanned : 2601
+total records scanned : 2616
+total records scanned : 2616
+total records scanned : 2625
+total records scanned : 2625
+total records scanned : 2646
+total records scanned : 2646
+total records scanned : 2649
+total records scanned : 2649
+total records scanned : 2701
+total records scanned : 2701
+total records scanned : 2770
+total records scanned : 2770
+total records scanned : 2777
+total records scanned : 2791
+total records scanned : 2791
+total records scanned : 2807
+total records scanned : 2807
+total records scanned : 2825
+total records scanned : 2825
+total records scanned : 2826
+total records scanned : 2833
+total records scanned : 2833
+total records scanned : 2854
+total records scanned : 2854
+total records scanned : 2861
+total records scanned : 2861
+total records scanned : 2902
+total records scanned : 2932
+total records scanned : 2941
+total records scanned : 2955
+total records scanned : 2955
+total records scanned : 2958
+total records scanned : 2958
+total records scanned : 2963
+total records scanned : 2963
+total records scanned : 3015
+total records scanned : 3015
+total records scanned : 3016
+total records scanned : 3021
+total records scanned : 3021
+total records scanned : 3026
+total records scanned : 3026
+total records scanned : 3039
+total records scanned : 3090
+total records scanned : 3090
+total records scanned : 3100
+total records scanned : 3118
+total records scanned : 3120
+total records scanned : 3120
+total records scanned : 3150
+total records scanned : 3150
+total records scanned : 3240
+total records scanned : 3240
+total records scanned : 3258
+total records scanned : 3294
+total records scanned : 3325
+total records scanned : 3325
+total records scanned : 3334
+total records scanned : 3334
+total records scanned : 3342
+total records scanned : 3368
+total records scanned : 3368
+total records scanned : 3408
+total records scanned : 3423
+total records scanned : 3453
+total records scanned : 3453
+total records scanned : 3458
+total records scanned : 3458
+total records scanned : 3537
+total records scanned : 3537
+total records scanned : 3571
+total records scanned : 3590
+total records scanned : 3590
+total records scanned : 3592
+total records scanned : 3592
+total records scanned : 3784
+total records scanned : 3784
+total records scanned : 3801
+total records scanned : 3801
+total records scanned : 3819
+total records scanned : 3819
+total records scanned : 3869
+total records scanned : 3876
+total records scanned : 3876
+total records scanned : 3876
+total records scanned : 3889
+total records scanned : 3894
+total records scanned : 3899
+total records scanned : 3899
+total records scanned : 3937
+total records scanned : 3937
+total records scanned : 3945
+total records scanned : 3945
+total records scanned : 3956
+total records scanned : 3956
+total records scanned : 3958
+total records scanned : 3958
+total records scanned : 3959
+total records scanned : 3959
+total records scanned : 3964
+total records scanned : 3964
+total records scanned : 3988
+total records scanned : 3988
+total records scanned : 3990
+total records scanned : 3990
+total records scanned : 4090
+total records scanned : 4090
+total records scanned : 4107
+total records scanned : 4107
+total records scanned : 4109
+total records scanned : 4109
+total records scanned : 4121
+total records scanned : 4144
+total records scanned : 4144
+total records scanned : 4156
+total records scanned : 4187
+total records scanned : 4187
+total records scanned : 4333
+total records scanned : 4333
+total records scanned : 4334
+total records scanned : 4334
+total records scanned : 4347
+total records scanned : 4347
+total records scanned : 4484
+total records scanned : 4495
+total records scanned : 4495
+total records scanned : 4518
+total records scanned : 4518
+total records scanned : 4528
+total records scanned : 4560
+total records scanned : 4597
+total records scanned : 4597
+total records scanned : 4627
+total records scanned : 4627
+total records scanned : 4695
+total records scanned : 4695
+total records scanned : 4695
+total records scanned : 4695
+total records scanned : 4736
+total records scanned : 4736
+total records scanned : 4751
+total records scanned : 4751
+total records scanned : 4813
+total records scanned : 4813
+total records scanned : 4842
+total records scanned : 4849
+total records scanned : 4849
+total records scanned : 4891
+total records scanned : 4936
+total records scanned : 4938
+total records scanned : 4938
+total records scanned : 5061
+total records scanned : 5061
+total records scanned : 5089
+total records scanned : 5094
+total records scanned : 5094
+total records scanned : 5114
+total records scanned : 5193
+total records scanned : 5193
+total records scanned : 5360
+total records scanned : 5360
+total records scanned : 5409
+total records scanned : 5504
+total records scanned : 5504
+total records scanned : 5631
+total records scanned : 5646
+total records scanned : 5646
+total records scanned : 5648
+total records scanned : 5648
+total records scanned : 5658
+total records scanned : 5658
+total records scanned : 5705
+total records scanned : 5721
+total records scanned : 5740
+total records scanned : 5849
+total records scanned : 5849
+total records scanned : 5919
+total records scanned : 5919
+total records scanned : 5925
+total records scanned : 5925
+total records scanned : 6208
+total records scanned : 6208
+total records scanned : 6398
+total records scanned : 6398
+total records scanned : 6452
+total records scanned : 6452
+total records scanned : 6456
+total records scanned : 6456
+total records scanned : 6503
+total records scanned : 6503
+total records scanned : 6563
+total records scanned : 6589
+total records scanned : 6589
+total records scanned : 6704
+total records scanned : 6704
+total records scanned : 6758
+total records scanned : 6864
+total records scanned : 6864
+total records scanned : 6936
+total records scanned : 7118
+total records scanned : 7118
+total records scanned : 7410
+total records scanned : 7410
+total records scanned : 7465
+total records scanned : 7465
+total records scanned : 7896
+total records scanned : 7896
+total records scanned : 7931
+total records scanned : 7931
+total records scanned : 8188
+total records scanned : 8246
+total records scanned : 8246
+total records scanned : 8391
+total records scanned : 8391
+total records scanned : 8550
+total records scanned : 8550
+total records scanned : 8726
+total records scanned : 8726
+total records scanned : 8929
+total records scanned : 8929
+total records scanned : 8949
+total records scanned : 8949
+total records scanned : 9142
+total records scanned : 9142
+total records scanned : 9323
+total records scanned : 9323
+total records scanned : 9582
+total records scanned : 9582
+total records written : 10359
+total records written : 1058
+total records written : 10586
+total records written : 10586
+total records written : 10650
+total records written : 10867
+total records written : 10867
+total records written : 10885
+total records written : 10885
+total records written : 11221
+total records written : 12521
+total records written : 12521
+total records written : 12963
+total records written : 13112
+total records written : 13112
+total records written : 1378
+total records written : 1378
+total records written : 13988
+total records written : 13988
+total records written : 1433
+total records written : 1433
+total records written : 1434
+total records written : 1434
+total records written : 14486
+total records written : 14486
+total records written : 1468
+total records written : 1468
+total records written : 1499
+total records written : 1540
+total records written : 1540
+total records written : 1580
+total records written : 1603
+total records written : 1615
+total records written : 1615
+total records written : 1752
+total records written : 1752
+total records written : 1769
+total records written : 1769
+total records written : 1787
+total records written : 1787
+total records written : 1817
+total records written : 1825
+total records written : 1826
+total records written : 1943
+total records written : 1966
+total records written : 1966
+total records written : 1968
+total records written : 1991
+total records written : 2006
+total records written : 2038
+total records written : 2038
+total records written : 2159
+total records written : 2159
+total records written : 2183
+total records written : 2183
+total records written : 2191
+total records written : 2191
+total records written : 2206
+total records written : 2206
+total records written : 2218
+total records written : 2218
+total records written : 2229
+total records written : 2239
+total records written : 2239
+total records written : 2253
+total records written : 2255
+total records written : 2255
+total records written : 2265
+total records written : 2288
+total records written : 2288
+total records written : 2330
+total records written : 2330
+total records written : 2381
+total records written : 2381
+total records written : 2427
+total records written : 2447
+total records written : 2447
+total records written : 2452
+total records written : 2452
+total records written : 2461
+total records written : 2461
+total records written : 2470
+total records written : 2503
+total records written : 2503
+total records written : 2509
+total records written : 2509
+total records written : 2520
+total records written : 2520
+total records written : 2549
+total records written : 2557
+total records written : 2557
+total records written : 2560
+total records written : 2560
+total records written : 2576
+total records written : 2576
+total records written : 2597
+total records written : 2598
+total records written : 2598
+total records written : 2601
+total records written : 2616
+total records written : 2616
+total records written : 2624
+total records written : 2624
+total records written : 2645
+total records written : 2645
+total records written : 2649
+total records written : 2649
+total records written : 2698
+total records written : 2698
+total records written : 2770
+total records written : 2770
+total records written : 2777
+total records written : 2791
+total records written : 2791
+total records written : 2807
+total records written : 2807
+total records written : 2824
+total records written : 2824
+total records written : 2826
+total records written : 2833
+total records written : 2833
+total records written : 2854
+total records written : 2854
+total records written : 2861
+total records written : 2861
+total records written : 2899
+total records written : 2932
+total records written : 2939
+total records written : 2954
+total records written : 2954
+total records written : 2958
+total records written : 2958
+total records written : 2962
+total records written : 2962
+total records written : 3015
+total records written : 3015
+total records written : 3016
+total records written : 3019
+total records written : 3019
+total records written : 3026
+total records written : 3026
+total records written : 3035
+total records written : 3088
+total records written : 3088
+total records written : 3099
+total records written : 3117
+total records written : 3120
+total records written : 3120
+total records written : 3149
+total records written : 3149
+total records written : 3240
+total records written : 3240
+total records written : 3258
+total records written : 3293
+total records written : 3325
+total records written : 3325
+total records written : 3334
+total records written : 3334
+total records written : 3342
+total records written : 3368
+total records written : 3368
+total records written : 3408
+total records written : 3417
+total records written : 3452
+total records written : 3452
+total records written : 3458
+total records written : 3458
+total records written : 3528
+total records written : 3528
+total records written : 3571
+total records written : 3590
+total records written : 3590
+total records written : 3592
+total records written : 3592
+total records written : 3784
+total records written : 3784
+total records written : 3800
+total records written : 3800
+total records written : 3819
+total records written : 3819
+total records written : 3869
+total records written : 3875
+total records written : 3876
+total records written : 3876
+total records written : 3889
+total records written : 3894
+total records written : 3899
+total records written : 3899
+total records written : 3935
+total records written : 3935
+total records written : 3945
+total records written : 3945
+total records written : 3956
+total records written : 3956
+total records written : 3958
+total records written : 3958
+total records written : 3959
+total records written : 3959
+total records written : 3964
+total records written : 3964
+total records written : 3988
+total records written : 3988
+total records written : 3990
+total records written : 3990
+total records written : 4090
+total records written : 4090
+total records written : 4107
+total records written : 4107
+total records written : 4109
+total records written : 4109
+total records written : 4121
+total records written : 4143
+total records written : 4143
+total records written : 4156
+total records written : 4187
+total records written : 4187
+total records written : 4333
+total records written : 4333
+total records written : 4334
+total records written : 4334
+total records written : 4346
+total records written : 4346
+total records written : 4484
+total records written : 4494
+total records written : 4494
+total records written : 4518
+total records written : 4518
+total records written : 4528
+total records written : 4559
+total records written : 4596
+total records written : 4596
+total records written : 4627
+total records written : 4627
+total records written : 4695
+total records written : 4695
+total records written : 4695
+total records written : 4695
+total records written : 4735
+total records written : 4735
+total records written : 4751
+total records written : 4751
+total records written : 4812
+total records written : 4812
+total records written : 4842
+total records written : 4849
+total records written : 4849
+total records written : 4891
+total records written : 4936
+total records written : 4937
+total records written : 4937
+total records written : 5061
+total records written : 5061
+total records written : 5088
+total records written : 5088
+total records written : 5091
+total records written : 5091
+total records written : 5114
+total records written : 5192
+total records written : 5192
+total records written : 5359
+total records written : 5359
+total records written : 5408
+total records written : 5503
+total records written : 5503
+total records written : 5631
+total records written : 5645
+total records written : 5645
+total records written : 5648
+total records written : 5648
+total records written : 5657
+total records written : 5657
+total records written : 5705
+total records written : 5720
+total records written : 5739
+total records written : 5849
+total records written : 5849
+total records written : 5919
+total records written : 5919
+total records written : 5925
+total records written : 5925
+total records written : 6207
+total records written : 6207
+total records written : 6397
+total records written : 6397
+total records written : 6450
+total records written : 6450
+total records written : 6456
+total records written : 6456
+total records written : 6498
+total records written : 6498
+total records written : 6563
+total records written : 6589
+total records written : 6589
+total records written : 6704
+total records written : 6704
+total records written : 6758
+total records written : 6863
+total records written : 6863
+total records written : 6936
+total records written : 7116
+total records written : 7116
+total records written : 7410
+total records written : 7410
+total records written : 7465
+total records written : 7465
+total records written : 7895
+total records written : 7895
+total records written : 7931
+total records written : 7931
+total records written : 8185
+total records written : 8245
+total records written : 8245
+total records written : 8389
+total records written : 8389
+total records written : 8550
+total records written : 8550
+total records written : 8726
+total records written : 8726
+total records written : 8925
+total records written : 8925
+total records written : 8949
+total records written : 8949
+total records written : 9142
+total records written : 9142
+total records written : 9320
+total records written : 9320
+total records written : 9582
+total records written : 9582
+tracking.log-20150106-1420539421
+tracking.log-20150107-1420622221
+tracking.log-20150107-1420622221
+tracking.log-20150108-1420741021
+tracking.log-20150108-1420741021
+tracking.log-20150109-1420780621
+tracking.log-20150109-1420780621
+tracking.log-20150126-1422296221
+tracking.log-20150126-1422296221
+tracking.log-20150127-1422368221
+tracking.log-20150127-1422368221
+tracking.log-20150128-1422451021
+tracking.log-20150128-1422451021
+tracking.log-20150128-1422451021
+tracking.log-20150128-1422451021
+tracking.log-20150128-1422465421
+tracking.log-20150129-1422515821
+tracking.log-20150129-1422515821
+tracking.log-20150129-1422551821
+tracking.log-20150129-1422551821
+tracking.log-20150130-1422641821
+tracking.log-20150131-1422713821
+tracking.log-20150201-1422764221
+tracking.log-20150201-1422778621
+tracking.log-20150201-1422778621
+tracking.log-20150202-1422854221
+tracking.log-20150202-1422854221
+tracking.log-20150202-1422865021
+tracking.log-20150202-1422865021
+tracking.log-20150202-1422868621
+tracking.log-20150203-1422937021
+tracking.log-20150203-1422944221
+tracking.log-20150203-1422955021
+tracking.log-20150203-1422955021
+tracking.log-20150203-1422958621
+tracking.log-20150203-1422958621
+tracking.log-20150203-1422965821
+tracking.log-20150203-1422973021
+tracking.log-20150203-1422987421
+tracking.log-20150204-1423012621
+tracking.log-20150204-1423027021
+tracking.log-20150204-1423027021
+tracking.log-20150204-1423034221
+tracking.log-20150204-1423037821
+tracking.log-20150204-1423066621
+tracking.log-20150204-1423066621
+tracking.log-20150205-1423081021
+tracking.log-20150205-1423081021
+tracking.log-20150205-1423102621
+tracking.log-20150205-1423113421
+tracking.log-20150205-1423113421
+tracking.log-20150205-1423117021
+tracking.log-20150205-1423117021
+tracking.log-20150205-1423124221
+tracking.log-20150205-1423124221
+tracking.log-20150205-1423131421
+tracking.log-20150205-1423131421
+tracking.log-20150205-1423138621
+tracking.log-20150205-1423138621
+tracking.log-20150205-1423149421
+tracking.log-20150205-1423149421
+tracking.log-20150205-1423153021
+tracking.log-20150205-1423160221
+tracking.log-20150205-1423160221
+tracking.log-20150206-1423163821
+tracking.log-20150206-1423163821
+tracking.log-20150206-1423167421
+tracking.log-20150206-1423167421
+tracking.log-20150206-1423192621
+tracking.log-20150206-1423196221
+tracking.log-20150206-1423210621
+tracking.log-20150206-1423210621
+tracking.log-20150206-1423214221
+tracking.log-20150206-1423214221
+tracking.log-20150206-1423221421
+tracking.log-20150206-1423221421
+tracking.log-20150206-1423228621
+tracking.log-20150206-1423228621
+tracking.log-20150206-1423235821
+tracking.log-20150206-1423235821
+tracking.log-20150206-1423239421
+tracking.log-20150206-1423239421
+tracking.log-20150207-1423293421
+tracking.log-20150207-1423297021
+tracking.log-20150207-1423297021
+tracking.log-20150207-1423300621
+tracking.log-20150207-1423300621
+tracking.log-20150207-1423304221
+tracking.log-20150207-1423307821
+tracking.log-20150207-1423307821
+tracking.log-20150207-1423315021
+tracking.log-20150207-1423315021
+tracking.log-20150207-1423318621
+tracking.log-20150207-1423329421
+tracking.log-20150207-1423329421
+tracking.log-20150207-1423333021
+tracking.log-20150208-1423343821
+tracking.log-20150208-1423343821
+tracking.log-20150208-1423372621
+tracking.log-20150208-1423372621
+tracking.log-20150208-1423379821
+tracking.log-20150208-1423379821
+tracking.log-20150208-1423383421
+tracking.log-20150208-1423383421
+tracking.log-20150208-1423387021
+tracking.log-20150208-1423394221
+tracking.log-20150208-1423394221
+tracking.log-20150208-1423408621
+tracking.log-20150208-1423408621
+tracking.log-20150208-1423412221
+tracking.log-20150208-1423412221
+tracking.log-20150208-1423419421
+tracking.log-20150208-1423419421
+tracking.log-20150209-1423455421
+tracking.log-20150209-1423469821
+tracking.log-20150209-1423469821
+tracking.log-20150209-1423477021
+tracking.log-20150209-1423477021
+tracking.log-20150209-1423480621
+tracking.log-20150209-1423498621
+tracking.log-20150209-1423498621
+tracking.log-20150209-1423505821
+tracking.log-20150209-1423505821
+tracking.log-20150210-1423531021
+tracking.log-20150210-1423531021
+tracking.log-20150210-1423556221
+tracking.log-20150210-1423556221
+tracking.log-20150210-1423559821
+tracking.log-20150210-1423559821
+tracking.log-20150210-1423563421
+tracking.log-20150210-1423567021
+tracking.log-20150210-1423567021
+tracking.log-20150210-1423570621
+tracking.log-20150210-1423588621
+tracking.log-20150210-1423588621
+tracking.log-20150211-1423624621
+tracking.log-20150211-1423624621
+tracking.log-20150211-1423628221
+tracking.log-20150211-1423628221
+tracking.log-20150211-1423649821
+tracking.log-20150211-1423649821
+tracking.log-20150211-1423653421
+tracking.log-20150211-1423653421
+tracking.log-20150211-1423667821
+tracking.log-20150211-1423667821
+tracking.log-20150211-1423671421
+tracking.log-20150211-1423671421
+tracking.log-20150211-1423675021
+tracking.log-20150211-1423675021
+tracking.log-20150211-1423678621
+tracking.log-20150212-1423718221
+tracking.log-20150212-1423718221
+tracking.log-20150212-1423747021
+tracking.log-20150212-1423750621
+tracking.log-20150212-1423754221
+tracking.log-20150212-1423754221
+tracking.log-20150212-1423765021
+tracking.log-20150212-1423765021
+tracking.log-20150213-1423811821
+tracking.log-20150213-1423811821
+tracking.log-20150213-1423822621
+tracking.log-20150213-1423826221
+tracking.log-20150213-1423826221
+tracking.log-20150213-1423844221
+tracking.log-20150213-1423844221
+tracking.log-20150213-1423851421
+tracking.log-20150213-1423851421
+tracking.log-20150214-1423898221
+tracking.log-20150214-1423898221
+tracking.log-20150214-1423901821
+tracking.log-20150214-1423909021
+tracking.log-20150214-1423909021
+tracking.log-20150214-1423919821
+tracking.log-20150214-1423927021
+tracking.log-20150214-1423927021
+tracking.log-20150214-1423930621
+tracking.log-20150214-1423934221
+tracking.log-20150214-1423934221
+tracking.log-20150215-1423952221
+tracking.log-20150215-1423952221
+tracking.log-20150215-1423981021
+tracking.log-20150215-1423981021
+tracking.log-20150215-1423988221
+tracking.log-20150215-1423991821
+tracking.log-20150215-1423991821
+tracking.log-20150215-1423995421
+tracking.log-20150215-1423995421
+tracking.log-20150215-1423999021
+tracking.log-20150215-1423999021
+tracking.log-20150215-1424006221
+tracking.log-20150215-1424013421
+tracking.log-20150215-1424013421
+tracking.log-20150215-1424017021
+tracking.log-20150215-1424017021
+tracking.log-20150216-1424031421
+tracking.log-20150216-1424031421
+tracking.log-20150216-1424063821
+tracking.log-20150216-1424067421
+tracking.log-20150216-1424067421
+tracking.log-20150216-1424074622
+tracking.log-20150216-1424074622
+tracking.log-20150216-1424078221
+tracking.log-20150216-1424089021
+tracking.log-20150216-1424089021
+tracking.log-20150216-1424099821
+tracking.log-20150216-1424099821
+tracking.log-20150216-1424103421
+tracking.log-20150216-1424103421
+tracking.log-20150217-1424117821
+tracking.log-20150217-1424117821
+tracking.log-20150217-1424121421
+tracking.log-20150217-1424139421
+tracking.log-20150217-1424139421
+tracking.log-20150217-1424143021
+tracking.log-20150217-1424143021
+tracking.log-20150217-1424150221
+tracking.log-20150217-1424150221
+tracking.log-20150217-1424153821
+tracking.log-20150217-1424153821
+tracking.log-20150217-1424157421
+tracking.log-20150217-1424157421
+tracking.log-20150217-1424161021
+tracking.log-20150217-1424161021
+tracking.log-20150217-1424168221
+tracking.log-20150217-1424168221
+tracking.log-20150217-1424186221
+tracking.log-20150217-1424186221
+tracking.log-20150217-1424189821
+tracking.log-20150217-1424189821
+tracking.log-20150217-1424193421
+tracking.log-20150217-1424193421
+tracking.log-20150218-1424211421
+tracking.log-20150218-1424211421
+tracking.log-20150218-1424236621
+tracking.log-20150218-1424236621
+tracking.log-20150218-1424240221
+tracking.log-20150218-1424240221
+tracking.log-20150218-1424247421
+tracking.log-20150218-1424247421
+tracking.log-20150218-1424258221
+tracking.log-20150218-1424258221
+tracking.log-20150218-1424269021
+tracking.log-20150218-1424269021
+tracking.log-20150218-1424276222
+tracking.log-20150218-1424276222
+tracking.log-20150218-1424279821
+tracking.log-20150218-1424279821
+tracking.log-20150218-1424283421
+tracking.log-20150219-1424287021
+tracking.log-20150219-1424287021
+tracking.log-20150219-1424290621
+tracking.log-20150219-1424290621
+tracking.log-20150219-1424323021
+tracking.log-20150219-1424323021
+tracking.log-20150219-1424344621
+tracking.log-20150219-1424348221
+tracking.log-20150219-1424348221
+tracking.log-20150219-1424362621
+tracking.log-20150219-1424362621
+tracking.log-20150220-1424373421
+tracking.log-20150220-1424395021
+tracking.log-20150220-1424405821
+tracking.log-20150220-1424416621
+tracking.log-20150220-1424416621
+tracking.log-20150220-1424420221
+tracking.log-20150220-1424420221
+tracking.log-20150220-1424423821
+tracking.log-20150220-1424423821
+tracking.log-20150220-1424427421
+tracking.log-20150220-1424427421
+tracking.log-20150220-1424431021
+tracking.log-20150220-1424431021
+tracking.log-20150220-1424449021
+tracking.log-20150220-1424452621
+tracking.log-20150220-1424452621
+tracking.log-20150221-1424477821
+tracking.log-20150221-1424488621
+tracking.log-20150221-1424499421
+tracking.log-20150221-1424499421
+tracking.log-20150221-1424503021
+tracking.log-20150221-1424506621
+tracking.log-20150221-1424506621
+tracking.log-20150221-1424510221
+tracking.log-20150221-1424510221
+tracking.log-20150221-1424535421
+tracking.log-20150221-1424535421
+tracking.log-20150221-1424542621
+tracking.log-20150221-1424542621
+tracking.log-20150222-1424549821
+tracking.log-20150222-1424549821
+tracking.log-20150222-1424557021
+tracking.log-20150222-1424571421
+tracking.log-20150222-1424571421
+tracking.log-20150222-1424585821
+tracking.log-20150222-1424585821
+tracking.log-20150222-1424589421
+tracking.log-20150222-1424589421
+tracking.log-20150222-1424600221
+tracking.log-20150222-1424600221
+tracking.log-20150222-1424611021
+tracking.log-20150222-1424614621
+tracking.log-20150222-1424618221
+tracking.log-20150222-1424618221
+tracking.log-20150222-1424621821
+tracking.log-20150222-1424621821
+tracking.log-20150222-1424629021
+tracking.log-20150222-1424629021
+tracking.log-20150223-1424639821
+tracking.log-20150223-1424657821
+tracking.log-20150223-1424657821
+tracking.log-20150223-1424665021
+tracking.log-20150223-1424665021
+tracking.log-20150223-1424683021
+tracking.log-20150223-1424690221
+tracking.log-20150223-1424690221
+tracking.log-20150223-1424704621
+tracking.log-20150223-1424704621
+tracking.log-20150223-1424711821
+tracking.log-20150223-1424715421
+tracking.log-20150223-1424715421
+tracking.log-20150224-1424719021
+tracking.log-20150224-1424733421
+tracking.log-20150224-1424733421
+tracking.log-20150224-1424747821
+tracking.log-20150224-1424747821
+tracking.log-20150224-1424751421
+tracking.log-20150224-1424751421
+tracking.log-20150224-1424758621
+tracking.log-20150224-1424765821
+tracking.log-20150224-1424765821
+tracking.log-20150224-1424769421

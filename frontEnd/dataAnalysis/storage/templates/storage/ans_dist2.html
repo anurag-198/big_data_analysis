@@ -1,0 +1,118 @@
+<!-- Table generated in R 3.2.1 by googleVis 0.5.8 package -->
+<!-- Thu Jul  2 23:47:05 2015 -->
+
+
+<!-- jsHeader -->
+<script type="text/javascript">
+ 
+// jsData 
+function gvisDataTableID1cb49658e75 () {
+var data = new google.visualization.DataTable();
+var datajson =
+[
+ [
+ "Q1",
+661,
+43 
+],
+[
+ "Q2",
+577,
+113 
+],
+[
+ "Q3",
+573,
+109 
+],
+[
+ "Q4",
+633,
+72 
+],
+[
+ "Q5",
+582,
+86 
+],
+[
+ "Q6",
+505,
+185 
+] 
+];
+data.addColumn('string','Problem');
+data.addColumn('number','Correct');
+data.addColumn('number','Incorrect');
+data.addRows(datajson);
+return(data);
+}
+ 
+// jsDrawChart
+function drawChartTableID1cb49658e75() {
+var data = gvisDataTableID1cb49658e75();
+var options = {};
+options["allowHtml"] = true;
+options["width"] =    300;
+options["height"] =    400;
+options["title"] = "Performance Table ";
+
+
+    var chart = new google.visualization.Table(
+    document.getElementById('TableID1cb49658e75')
+    );
+    chart.draw(data,options);
+    
+
+}
+  
+ 
+// jsDisplayChart
+(function() {
+var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+var chartid = "table";
+  
+// Manually see if chartid is in pkgs (not all browsers support Array.indexOf)
+var i, newPackage = true;
+for (i = 0; newPackage && i < pkgs.length; i++) {
+if (pkgs[i] === chartid)
+newPackage = false;
+}
+if (newPackage)
+  pkgs.push(chartid);
+  
+// Add the drawChart function to the global list of callbacks
+callbacks.push(drawChartTableID1cb49658e75);
+})();
+function displayChartTableID1cb49658e75() {
+  var pkgs = window.__gvisPackages = window.__gvisPackages || [];
+  var callbacks = window.__gvisCallbacks = window.__gvisCallbacks || [];
+  window.clearTimeout(window.__gvisLoad);
+  // The timeout is set to 100 because otherwise the container div we are
+  // targeting might not be part of the document yet
+  window.__gvisLoad = setTimeout(function() {
+  var pkgCount = pkgs.length;
+  google.load("visualization", "1", { packages:pkgs, callback: function() {
+  if (pkgCount != pkgs.length) {
+  // Race condition where another setTimeout call snuck in after us; if
+  // that call added a package, we must not shift its callback
+  return;
+}
+while (callbacks.length > 0)
+callbacks.shift()();
+} });
+}, 100);
+}
+ 
+// jsFooter
+</script>
+ 
+<!-- jsChart -->  
+<script type="text/javascript" src="https://www.google.com/jsapi?callback=displayChartTableID1cb49658e75"></script>
+ 
+<!-- divChart -->
+  
+<div id="TableID1cb49658e75" 
+  style="width: 300; height: 400;">
+</div>
